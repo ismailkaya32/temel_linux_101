@@ -10,9 +10,9 @@
 - `ismail@kaya:~$whoami`  --->  **ismail** adlı kullanıcının **kaya** isimli makinede oturum açtığını terminale yazdırır.
 
 <div align="center">
-	<img width="900" height="150" src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/14047737-3a12-4691-8b8a-6b9c1278fb2c"/>
+	<img  src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/14047737-3a12-4691-8b8a-6b9c1278fb2c"/>
 <div>
-   
+   	
 
 - ---
 
