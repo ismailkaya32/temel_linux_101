@@ -9,7 +9,10 @@
 
 - `ismail@kaya:~$whoami`  --->  **ismail** adlı kullanıcının **kaya** isimli makinede oturum açtığını terminale yazdırır.
 
-     ![whoami](https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/14047737-3a12-4691-8b8a-6b9c1278fb2c)
+<div align="center">
+	<img width="900" height="150" src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/14047737-3a12-4691-8b8a-6b9c1278fb2c"/>
+<div>
+   
 
 - ---
 
@@ -22,16 +25,22 @@
 
 -  `ismail@kaya:~$date`  ---> Şuanki tarih ve zamanı görüntüler.
 
+<div align="center">
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/275e0b13-ec88-4f8e-a719-c3eabbe45537"/>
+<div>
+   
 
 
-    ![date](https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/275e0b13-ec88-4f8e-a719-c3eabbe45537)
 
 - ---
 
 - ` ismail@kaya:~$ls ` ---> Bir dizinin içindeki dosya ve klasörleri listelemek için kullanırız. Aşağıdaki örnekte Desktop'ta bulunan dosya ve klasörlei listeledik.
+ 
+<div align="center">
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/601b69a1-eb28-4dbe-81e4-8b743a634dc6"/>
+<div>
 
 
-     ![ls](https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/601b69a1-eb28-4dbe-81e4-8b743a634dc6)
 
 
 - ---
@@ -53,8 +62,10 @@
 
 - ` ismail@kaya:~$history ` ---> Geçmişte yaptığımız işlemleri gösterir.
 
-
-    ![history](https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/5d3a953a-fed6-405a-8fea-0df1b2a7d155)
+<div align="center">
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/5d3a953a-fed6-405a-8fea-0df1b2a7d155"/>
+<div>
+   
 
 
 ---
@@ -68,64 +79,85 @@
 
 -`ismail@kaya:~$touch  DosyaIsmi `---> Dosya oluşturmaya yarıyor. Aşağıdaki örnekte Desktop'a ismail adında bir dosya oluşturduk.
 
-
-   ![touch](https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/b2f803dc-0080-442e-b564-b1d0236562f0)
+<div align="center">
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/b2f803dc-0080-442e-b564-b1d0236562f0"/>
+<div>
+ 
 
 ---
 
 -`ismail@kaya:~$cd  GidecegimizDizin `---> Herhangi bir dizinin içine gidebilmek için kullanırız. Aşağıdaki örnekte **Desktop** dizininden **deneme** dizinine geçtik.
 
-   ![cd](https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/e2eb220b-5030-4f71-8bd2-f8acb07906ab)
+ <div align="center">
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/e2eb220b-5030-4f71-8bd2-f8acb07906ab"/>
+<div>
+ 
 
 
 ---
 
 - `ismail@kaya:~$cd  .. `---> Bulunduğumuz dizinden bir önceki dizine dönemmeiz sağlar. Aşağıdaki örnekte **deneme** dizininden **Desktop** dizinine geri dönüyoruz.
 
+<div align="center">
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/ed450445-8f87-4de5-a7e7-94fbc7249dbd"/>
+<div>
 
-   ![cd geri gelme](https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/ed450445-8f87-4de5-a7e7-94fbc7249dbd)
 
 ---
 
 - `ismail@kaya:~$mkdir DizininIsmi `---> Klasör oluşturmaya yarıyor. Aşağıdaki örnekte Desktop'a  kaya adında bir klasör oluşturduk.
 
-
-   ![mkdir](https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/4c5aeea3-556f-40a8-baf5-324db2a3bade)
-
+<div align="center">
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/4c5aeea3-556f-40a8-baf5-324db2a3bade7"/>
+<div>
+  
 ---
 
 - `ismail@kaya:~$cp DosyaIsmi TasinacakYer`---> Dosyayı veya klasörü bir dizinden başka bir dizine kopyalamayı sağlar. Aşağıdaki örnekte ismail adlı dosyayı Desktop dizininden deneme dizinine kopyaladık.
 
-   ![cp](https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/ed8ce2fa-4f6b-4d42-a7f0-d5536f4a8b66)
+ <div align="center">
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/ed8ce2fa-4f6b-4d42-a7f0-d5536f4a8b66"/>
+<div>
+ 
 
 
 ---
 
 - `ismail@kaya:~$mv TasiyacagimizDosyaninIsmi/ TasinacakYer/`---> Dosyayı veya klasörü bir dizinden başka bir dizine taşımayı sağlar. Aşağıdaki örnekte ismail adlı dosyayı Desktop dizininden deneme dizinine taşıdık.
 
-   ![mv](https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/89a476b7-4189-43c2-8d37-a223511b0ead)
+ <div align="center">
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/89a476b7-4189-43c2-8d37-a223511b0ead"/>
+<div>
+  
 
 
 ---
 
 - `ismail@kaya:~$mv eski_dosya_adi yeni_dosya_adi `---> Bir dosyanın ya da klasörün ismi değiştirmeye yarıyor. Aşağıdaki örnekte ismail adlı dosyanın ismimi kaya adına çevirdik.
+<div align="center">
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/30940e6f-9af2-4c07-8825-3ec2dbc5f2c4"/>
+<div>
 
-   ![mv isim](https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/30940e6f-9af2-4c07-8825-3ec2dbc5f2c4)
 
 
 ---
 
 - `ismail@kaya:~$rm DosyaAdi `---> Dosya silmeye yarıyor. Aşağıdaki örnekte kaya adlı dosyayı sildik.
 
+ <div align="center">
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/72bfd8a1-268b-4a02-8cd7-2c4e96b3d2e9"/>
+<div>
 
-   ![rm](https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/72bfd8a1-268b-4a02-8cd7-2c4e96b3d2e9)
+
 
 ---
 
  - `ismail@kaya:~$rmdir KlasörAdi `---> Klasör silmeye yarıyor. Aşağıdaki örnekte kaya adlı dizinini sildik.
 
-
-   ![rmdir](https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/4a21b3b0-7504-415d-baaf-db4bf64e392c)
+<div align="center">
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/4a21b3b0-7504-415d-baaf-db4bf64e392c"/>
+<div>
+  
 
 ---
 
@@ -138,14 +170,19 @@
 
 - `ismail@kaya:~$nano DosyaAdi `---> Yandaki komut ile içindeki bilgileri düzeltemediğimiz dosyanın içindeki bilgileri düzeltmeye yarar.
 
+ <div align="center">
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/c0594593-5e77-4495-884a-5e8b4d464f45"/>
+<div>
 
-    ![nano](https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/c0594593-5e77-4495-884a-5e8b4d464f45)
 
 ---
 
  - `ismail@kaya:~$cat>DosyaAdi `---> Yandaki komut ile dosyanın içine yazı yazabiliriz.
 
-![cat](https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/234a8ccf-61c2-4089-b010-659805a1cf16)
+ <div align="center">
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/234a8ccf-61c2-4089-b010-659805a1cf16"/>
+<div>
+
 
 
 --- 
