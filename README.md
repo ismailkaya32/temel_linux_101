@@ -168,7 +168,7 @@
 
 ---
 
-- `ismail@kaya:~$nano DosyaAdi `---> Yandaki komut ile içindeki bilgileri düzeltemediğimiz dosyanın içindeki bilgileri düzeltmeye yarar.
+- `ismail@kaya:~$nano DosyaAdi `---> İçindeki bilgileri düzeltemediğimiz dosyanın içindeki bilgileri düzeltmeye yarar.
 
  <div align="center">
 	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/c0594593-5e77-4495-884a-5e8b4d464f45"/>
@@ -177,7 +177,7 @@
 
 ---
 
- - `ismail@kaya:~$cat>DosyaAdi `---> Yandaki komut ile dosyanın içine yazı yazabiliriz.
+ - `ismail@kaya:~$cat>DosyaAdi `---> Dosyanın içine yazı yazabiliriz.
 
  <div align="center">
 	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/234a8ccf-61c2-4089-b010-659805a1cf16"/>
@@ -209,7 +209,7 @@
 
 ---
 
-- `ismail@kaya:~$wc DosyaAdi `---> Ddosya hakkında bilgi alırız.(Satır sayısı, kelime sayısı, dosyanın bayt türünden dosya boyutu)
+- `ismail@kaya:~$wc DosyaAdi `---> Dosya hakkında bilgi alırız.(Satır sayısı, kelime sayısı, dosyanın bayt türünden dosya boyutu)
 
 <div align="center">
 	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/a4672a1c-997e-4d1b-aa99-bf341316788b"/>
@@ -270,7 +270,7 @@
 -  `ismail@kaya:~$head DosyaAdi`---> Bir dosyanın ilk 10 satırını yazdırır.
 
  <div align="center">
-	<img src="(https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/c62036e7-e552-4e80-96b0-3d452aee072a"/>
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/c62036e7-e552-4e80-96b0-3d452aee072a"/>
 
 <div>
 
