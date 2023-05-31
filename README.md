@@ -188,12 +188,22 @@
 --- 
 
 - `ismail@kaya:~$pwd`---> İçinde bulunduğumuz dizini bize gösterir.
+	
+<div align="center">
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/5e96b340-e0f8-48e5-bc96-e799d4fb3af0"/>
+
+<div>
 
 
 
 ---
 
 - `ismail@kaya:~$file DosyaAdi `---> Dosyanın ne tür bir dosya olduğunu öğrenebiliriz.
+	
+<div align="center">
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/0b39830e-81e3-434e-a9b9-db245f7dfbe1"/>
+
+<div>
 
 
 
@@ -201,101 +211,126 @@
 
 - `ismail@kaya:~$wc DosyaAdi `---> Ddosya hakkında bilgi alırız.(Satır sayısı, kelime sayısı, dosyanın bayt türünden dosya boyutu)
 
+<div align="center">
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/a4672a1c-997e-4d1b-aa99-bf341316788b"/>
+<div>
+
 
 
 ---
 
 - `ismail@kaya:~$wc -w DosyaAdi`---> Dosyanın içinde kaç kelime olduğunu öğreniriz.
 
+<div align="center">
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/c18687a3-0e5a-46b9-8fb6-fa6a5fab7b9f"/>
+
+<div>
 
 
 ---
 
 - `ismail@kaya:~$wc -l DosyaAdi`---> Dosyanın içinde kaç satırdan oluştuğunu öğreniriz.
+	
+<div align="center">
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/de2768cb-297c-4a07-b6cf-aeeb5c92f106"/>
+
+<div>
 
 
 
 ---
 
 - `ismail@kaya:~$wc -c DosyaAdi`---> Dosyanın kaç byte olduğunu öğreniriz.
+	
+<div align="center">
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/d48d70a1-fa2b-4cca-896a-4eb51bd68ab1"/>
+
+<div>
 
 
 
 ---
 
 - `ismail@kaya:~$wc -L DosyaAdi`---> Dosyanın içindeki en uzun satırın kaç harften oluştuğunu öğreniriz.
+	
+<div align="center">
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/9d3d8332-4826-4f5e-9efe-250f2378170f"/>
+
+<div>
 
 
 
 ---
-
-- `ismail@kaya:~$wc -w DosyaAdi`---> Dosyanın içinde kaç kelime olduğunu öğreniriz.
-
-
----
-
 
 -  `ismail@kaya:~$man KullanmayiÖgrenmekIstedigimizKomut`---> Kılavuzu bulunan komut ve programların kılavuzlarını okur.
 
-
-
+	
 ---
 
 -  `ismail@kaya:~$head DosyaAdi`---> Bir dosyanın ilk 10 satırını yazdırır.
 
+ <div align="center">
+	<img src="(https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/c62036e7-e552-4e80-96b0-3d452aee072a"/>
 
-
--
-
--  `ismail@kaya:~$wc -w DosyaAdi`---> Dosyanın içinde kaç kelime olduğunu öğreniriz.
-
-
+<div>
 
 ---
 
 -  `ismail@kaya:~$tail DosyaAdi`---> Dosyanın son 10 satırını yazdırır.
 
-
-
----
-
--  `ismail@kaya:~$wc -w DosyaAdi`---> Dosyanın içinde kaç kelime olduğunu öğreniriz.
-
+<div align="center">
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/442b8446-a815-40b2-97dc-32a47bccec8e"/>
+<div>
+	
 
 ---
 
 -  `ismail@kaya:~$more DosyaAdi`---> Terminal ekranına sığmayan metinleri okumayı kolaylaştırır.
 
+<div align="center">
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/393b69f7-43a3-43b7-9c31-da01bda56a69"/>
 
+<div>
 
 ---
 
 -  `ismail@kaya:~$nl DosyaAdi`---> Boş olan satırlar hariç diğer satırlara satır numarası ekler.
 
+<div align="center">
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/61f77e5f-6949-47e1-8d0b-e66b32207041"/>
 
+<div>
 
 ---
 
 -  `ismail@kaya:~$sort DosyaAdi`---> Dosyanın içinde yazan yazıları sırası ile yazdırır.
 
+<div align="center">
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/806a33d8-3780-4761-8099-5b9614a3def3"/>
 
+<div>
 
 ---
 
 -  `ismail@kaya:~$sort -R DosyaAdi`---> Dosyanın içindeki bilgileri karışık olarak sıralar.
 
+<div align="center">
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/40124014-3785-40d2-8d0b-c308c4b2405a"/>
 
+<div>
 
 ---
 
 -  `ismail@kaya:~$sort -r DosyaAdi`---> Dosyanın içindeki bilgileri tersten sıralar.
 
 
-
 ---
 
 -  `ismail@kaya:~$sort -c DosyaAdi`---> Yandaki komut ile dosyanın sıralı olup olmadığını bize söyler.
 
+<div align="center">
+	<img src="https://github.com/ismailkaya32/linux_komutlari_101/assets/122615472/00321265-645b-4d37-bb84-89d1bc86369d"/>
+<div>
 
 
 ---
